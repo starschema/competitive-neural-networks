@@ -6,11 +6,11 @@ This set of notebooks is a companion material to my series of articles on the [S
 
 ## Table of contents
 
-|   | Blog post                                       | Companion notebook  |
-|---|-------------------------------------------------|---------------------|
-| 1 | [Funderstanding competitive neural networks](https://medium.com/starschema-blog/funderstanding-competitive-neural-networks-f4dae1cb3c1f)      | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/01_Funderstanding_competitive_neural_networks.ipynb) |
-| 2 | [Self-Organising Feature Maps for fun and profit](https://medium.com/starschema-blog/self-organising-feature-maps-for-fun-and-profit-d1f62930e3b9) | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/Kohonen_SOFMs.ipynb) | 
-| 3 | [Growing Neural Gas models: theory and practice](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d)  | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) | 
+|   | Blog post                                       | Companion notebook  | NBViewer |
+|---|-------------------------------------------------|---------------------| -------- |
+| 1 | [Funderstanding competitive neural networks](https://medium.com/starschema-blog/funderstanding-competitive-neural-networks-f4dae1cb3c1f)      | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/01_Funderstanding_competitive_neural_networks.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/01_Funderstanding_competitive_neural_networks.ipynb) |
+| 2 | [Self-Organising Feature Maps for fun and profit](https://medium.com/starschema-blog/self-organising-feature-maps-for-fun-and-profit-d1f62930e3b9) | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/02_Kohonen_SOFMs.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/02_Kohonen_SOFMs.ipynb) |
+| 3 | [Growing Neural Gas models: theory and practice](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d)  | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) |
 
 
 
