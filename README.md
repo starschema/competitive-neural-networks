@@ -2,11 +2,17 @@
 
 This set of notebooks is a companion material to my series of articles on the [Starschema blog](https://medium.com/starschema-blog) discussing competitive neural networks. Unlike error-correction neural networks, to which the feedforward backpropagation neural nets you know and love belong, competitive neural networks have an entirely different idea of what neurons do, and indeed model different brain processes (associative or Hebbian learning versus the ventral stream's gradually more complex and semantic process of understanding). While these blog posts are far from giving you the complete lowdown, they're a fun introduction to the subject.
 
-|   | Blog post                                       | Companion notebook  |
-|---|-------------------------------------------------|---------------------|
-| 1 | [Funderstanding competitive neural networks](https://medium.com/starschema-blog/funderstanding-competitive-neural-networks-f4dae1cb3c1f)      | [notebook](01_Funderstanding_competitive_neural_networks.ipynb) | nbviewer |
-| 2 | [Self-Organising Feature Maps for fun and profit](https://medium.com/starschema-blog/self-organising-feature-maps-for-fun-and-profit-d1f62930e3b9) | [notebook](Kohonen_SOFMs.ipynb) | nbviewer |
-| 3 | [Growing Neural Gas models: theory and practice](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d)  | [notebook](03_Detecting_retinopathy_with_GNG.ipynb) | nbviewer |
+![](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/assets/vq_principle.png)
+
+## Table of contents
+
+|   | Blog post                                       | Companion notebook  | NBViewer |
+|---|-------------------------------------------------|---------------------| -------- |
+| 1 | [Funderstanding competitive neural networks](https://medium.com/starschema-blog/funderstanding-competitive-neural-networks-f4dae1cb3c1f)      | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/01_Funderstanding_competitive_neural_networks.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/01_Funderstanding_competitive_neural_networks.ipynb) |
+| 2 | [Self-Organising Feature Maps for fun and profit](https://medium.com/starschema-blog/self-organising-feature-maps-for-fun-and-profit-d1f62930e3b9) | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/02_Kohonen_SOFMs.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/02_Kohonen_SOFMs.ipynb) |
+| 3 | [Growing Neural Gas models: theory and practice](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d)  | [notebook](https://github.com/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/chrisvoncsefalvay/competitive-neural-networks/blob/master/03_Detecting_retinopathy_with_GNG.ipynb) |
+
+
 
 
 ### References
